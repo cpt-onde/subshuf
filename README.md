@@ -27,7 +27,7 @@ Takes a word list file called english.json, outputs in json and csv formats forw
 
 * Install dependencies for python and/or node.js respectively. They are independent, you only need either python or node.js.
 
-* Place a file called english.json in the directory.
+* Place a file called english.json with all possible words in the directory.
 
 * Set a password or passphrase as an environment variable called subshufpw.
 
