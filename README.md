@@ -21,7 +21,7 @@ It uses Argon2i for keystretching, which seeds a a crude SHA256 pseudo random nu
 
 ## How it does it
 
-Takes a file called english.json, outputs in json and csv formats forward and reverse lookup tables.
+Takes a word list file called english.json, outputs in json and csv formats forward and reverse lookup tables.
 
 ## How to use it
 
