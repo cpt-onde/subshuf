@@ -1,6 +1,6 @@
 # subshuf
 
-SUBstitution cipther through SHUFfling of a word list, for computerless encryption of seed words from one pice of paper to another.
+**sub**stitution cipther through **shuf**fling of a word list, for computerless encryption of seed words from one pice of paper to another.
 
 ## No guarantees
 
