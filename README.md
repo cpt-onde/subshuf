@@ -13,13 +13,13 @@ There is also a reverse lookup table to get back to cleartext.
 
 The shuffled word order in the lookup tables is deterministically defined by a password or passphrase that you set.
 
-## What it does
+## How it does it
 
 Shuffles a word list based on a keystretched password/passphrase to create a lookup table substitution cipher kind of. Uses either python or node.js.
 
 It uses Argon2i for keystretching, which seeds a a crude SHA256 pseudo random number generator (PRNG) and then Fisher-Yates for the shuffling, based on the input from the PRNG.
 
-## How it does it
+## Which in practice means
 
 Takes a word list file called english.json, outputs in json and csv formats forward and reverse lookup tables as word pairs.
 
