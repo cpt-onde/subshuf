@@ -11,7 +11,7 @@ There may be gaping security holes. Not written by a cryptographer. Use your own
 To help encrypt a cleartext word seed you have on paper to another piece of paper without inputting the seed into a computer. Uses a lookup table for this.
 There is also a reverse lookup table to get back to cleartext.
 
-The word order in the lookup tables is defined by a password or passphrase that you set.
+The shuffled word order in the lookup tables is deterministically defined by a password or passphrase that you set.
 
 ## What it does
 
