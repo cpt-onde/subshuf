@@ -1,5 +1,7 @@
 # subshuf
 
+SUBstitution cipther SHUFfling of a word list for computerless encryption of seed words from one pice of paper to another.
+
 ## No guarantees
 
 There may be gaping security holes. Not written by a cryptographer. Use your own judgement. 
