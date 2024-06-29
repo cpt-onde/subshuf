@@ -35,7 +35,7 @@ Takes a word list file called english.json, outputs in json and csv formats forw
 
 * You now have a lookup table and a reverse lookup table
 
-* The tsv can be pasted into LibreOffice and ask it to make a table of it "Table>Convert>Text to Table…"
+* The csv can be pasted into LibreOffice and ask it to make a table of it "Table>Convert>Text to Table…"
 
 * Use the table to encrypt your seed from paper to paper, by manually looking up each word in the table called "forward" something
 
